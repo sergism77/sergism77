@@ -28,7 +28,7 @@ Below is a list of some of the projects I have played in, collaborated with, or 
 - [94 by (Linn Halvorsrød live at Støy på landet 2015)](https://youtu.be/eeyHPOj9x-s?si=23Pm9WvaR0i8GgJO)
 - [Axiom Of Choice](https://axiomofchoice.bandcamp.com/)
 - [AWSER DERF](https://awserderf.bandcamp.com/)
-- [Birds In Misery](https://birdsinmisery.bandcamp.com/album/adoration-songs)
+- [Birds In Misery](https://birdsinmisery.bandcamp.com/)
 - [Cide](https://youtu.be/80qKyDir9T4?si=pvUZni1MewfeKiwF)
 - [El Próximo Paso](https://elproximopaso.bandcamp.com/)
 - [Enlil](https://archive.org/details/abdicate_cell017)
