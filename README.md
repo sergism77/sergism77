@@ -23,8 +23,6 @@ Below is a list of some of the projects I have played in, collaborated with, or 
 
 ### **🎵 Music Projects**
 
-#### Column 1
-
 - [94 by (Linn Halvorsrød live at Støy på landet 2015)](https://youtu.be/eeyHPOj9x-s?si=23Pm9WvaR0i8GgJO)
 - [Axiom Of Choice](https://axiomofchoice.bandcamp.com/)
 - [AWSER DERF](https://awserderf.bandcamp.com/)
@@ -42,9 +40,6 @@ Below is a list of some of the projects I have played in, collaborated with, or 
 - [Larsgården/Saldaña](https://archive.org/details/abdicate_cell018)
 - [Lystdrap](https://youtu.be/6fpYj6vyHxc?si=A92GxaknRV3qRfCZ)
 - [Mantis Crème](https://archive.org/details/abdicate_cell?and%5B%5D=creator%3A%22mantis+cr%C3%A8me%22)
-
-#### Column 2
-
 - [Monochrome Nausea](https://monochromenausea.bandcamp.com/)
 - Necropsia
 - [Norma Vik](https://antsyrecords.bandcamp.com/album/normal)
