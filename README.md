@@ -62,7 +62,7 @@ Below is a list of some of the projects I have played in, collaborated with, or 
 
 ## **🌿 Connect with Me**
 
-🎵 **Antsy Records:** [Antsy Records] (https://antsyrecords.bandcamp.com)
+🎵 **Antsy Records:** [Antsy-Records](https://antsyrecords.bandcamp.com)
 🌎 **Website:** [sergism.com](https://sergism.com)  
 🐙 **GitHub:** [sergism77](https://github.com/sergism77)  
 🌍 **Seigr Lab:** [Seigr-lab](https://github.com/Seigr-lab)  
