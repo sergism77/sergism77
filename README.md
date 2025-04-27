@@ -33,8 +33,8 @@ Some Of My Solo Music projects:
 <details>
 <summary>On Apple Music</summary>
 
-- [Listen to “Venusian Scum” on Apple Music](https://embed.music.apple.com/us/album/venusian-scum-single/1810656792)
-- [Listen to “Coven of One” on Apple Music](https://embed.music.apple.com/us/album/coven-of-one-single/1810180038)
+- [Listen to *Venusian Scum* on Apple Music](https://embed.music.apple.com/us/album/venusian-scum-single/1810656792)
+- [Listen to *Coven of One* on Apple Music](https://embed.music.apple.com/us/album/coven-of-one-single/1810180038)
 
 </details>
 
