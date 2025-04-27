@@ -24,18 +24,18 @@ Some Of My Solo Music projects:
 
 <details>
 <summary>On Spotify</summary>
-<div class="player-wrapper">
-  <iframe src="https://open.spotify.com/embed/album/7pscWqfOuQXMm79Dq7hHzX?utm_source=generator" width="100%" height="152" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-  <iframe src="https://open.spotify.com/embed/album/0RBITwkLodg71iuCB1Ub3e?utm_source=generator" width="100%" height="152" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
+
+- [Listen to *Tombwave Barbarian* on Spotify](https://open.spotify.com/album/7pscWqfOuQXMm79Dq7hHzX)
+- [Listen to *Tombwave Barbarian* (Vol. 2) on Spotify](https://open.spotify.com/album/0RBITwkLodg71iuCB1Ub3e)
+
 </details>
 
 <details>
 <summary>On Apple Music</summary>
-<div class="player-wrapper">
-  <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/venusian-scum-single/1810656792"></iframe>
-  <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/coven-of-one-single/1810180038"></iframe>
-</div>
+
+- [Listen to “Venusian Scum” on Apple Music](https://embed.music.apple.com/us/album/venusian-scum-single/1810656792)
+- [Listen to “Coven of One” on Apple Music](https://embed.music.apple.com/us/album/coven-of-one-single/1810180038)
+
 </details>
 
 </details>
@@ -45,16 +45,16 @@ Some Of My Solo Music projects:
 
 <details>
 <summary>On Spotify</summary>
-<div class="player-wrapper">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3qlMCCMcr7bLBsGMI0Z3as?utm_source=generator" width="100%" height="152" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
+
+- [Listen to *Reek With Charm* on Spotify](https://open.spotify.com/album/3qlMCCMcr7bLBsGMI0Z3as)
+
 </details>
 
 <details>
 <summary>On Apple Music</summary>
-<div class="player-wrapper">
-  <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/reek-with-charm-single/1810179314"></iframe>
-</div>
+
+- [Listen to *Reek With Charm* on Apple Music](https://embed.music.apple.com/us/album/reek-with-charm-single/1810179314)
+
 </details>
 
 </details>
@@ -64,16 +64,16 @@ Some Of My Solo Music projects:
 
 <details>
 <summary>On Spotify</summary>
-<div class="player-wrapper">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2SArxoF7jcjEOVO4HbXsTH?utm_source=generator" width="100%" height="152" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
+
+- [Listen to *Stones Of Blood* on Spotify](https://open.spotify.com/album/2SArxoF7jcjEOVO4HbXsTH)
+
 </details>
 
 <details>
 <summary>On Apple Music</summary>
-<div class="player-wrapper">
-  <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/no/album/because-of-the-time-lost-single/1810202792"></iframe>
-</div>
+
+- [Listen to *Stones Of Blood* on Apple Music](https://embed.music.apple.com/no/album/because-of-the-time-lost-single/1810202792)
+
 </details>
 
 </details>
@@ -83,16 +83,16 @@ Some Of My Solo Music projects:
 
 <details>
 <summary>On Spotify</summary>
-<div class="player-wrapper">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5eHQS0FW6BZiUij3thIS4o?utm_source=generator" width="100%" height="152" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
+
+- [Listen to *Red Backlights Are On* on Spotify](https://open.spotify.com/album/5eHQS0FW6BZiUij3thIS4o)
+
 </details>
 
 <details>
 <summary>On Apple Music</summary>
-<div class="player-wrapper">
-  <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/brightness-control-single/1810173061"></iframe>
-</div>
+
+- [Listen to *Red Backlights Are On* on Apple Music](https://embed.music.apple.com/us/album/brightness-control-single/1810173061)
+
 </details>
 
 </details>
@@ -102,20 +102,20 @@ Some Of My Solo Music projects:
 
 <details>
 <summary>On Spotify</summary>
-<div class="player-wrapper">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1z66hIZxhVjt6sBFuQMI2y?utm_source=generator" width="100%" height="152" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0AObsvlALD9aOwUHqZ1R7I?utm_source=generator" width="100%" height="152" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7mvgBeEwVMN9St3s4wbt3G?utm_source=generator" width="100%" height="152" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
+
+- [Album 1 on Spotify](https://open.spotify.com/album/1z66hIZxhVjt6sBFuQMI2y)
+- [Album 2 on Spotify](https://open.spotify.com/album/0AObsvlALD9aOwUHqZ1R7I)
+- [Album 3 on Spotify](https://open.spotify.com/album/7mvgBeEwVMN9St3s4wbt3G)
+
 </details>
 
 <details>
 <summary>On Apple Music</summary>
-<div class="player-wrapper">
-  <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/huldren/1810189554"></iframe>
-  <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/minner-fra-bispedalen-ep/1810178971"></iframe>
-  <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/quantum-fluctuation/1810194217"></iframe>
-</div>
+
+- [Huldren on Apple Music](https://embed.music.apple.com/us/album/huldren/1810189554)
+- [Minner fra Bispedalen EP on Apple Music](https://embed.music.apple.com/us/album/minner-fra-bispedalen-ep/1810178971)
+- [Quantum Fluctuation on Apple Music](https://embed.music.apple.com/us/album/quantum-fluctuation/1810194217)
+
 </details>
 
 </details>
@@ -167,7 +167,7 @@ Some Of My Solo Music projects:
 
 A wandering spirit drawn to the edges of art, nature, and technology, I am an interdisciplinary artist, forest beekeeper, and eco-driven technologist building resilient, mycelium-inspired data ecosystems. My journey began with sound—over 30 years as a musician—and grew into a deep dive into digital realms, from early CD-ROM development in the 90s to today’s decentralized networks. Formally trained in sound engineering and art direction, I have woven diverse experiences into a practice rooted in ecological stewardship and transparent collaboration.
 
-Back in 2004 I started the [Abdicate Cell](https://archive.org/details/abdicate_cell) netlabel. It was mainly to self publish my sound works, but ended up publishing a lot of other artists.
+Back in 2004 I started the [Abdicate Cell](https://archive.org/details/abdicate_cell) netlabel. It was mainly to self-publish my sound works, but ended up publishing a lot of other artists.
 
 Through Abdicate Cell I connected with many artists and musicians. It was a great experience and it helped me to understand the importance of collaboration and community in the creative process. I believe that art should be accessible to everyone.
 
@@ -179,16 +179,16 @@ Currently, my focus is on [Seigr](https://github.com/Seigr-lab/Seigr-EcoSystem),
 
 Although it may seem like a contradiction to some, I am quite eremitic (not religious kind). I have a strong need for solitude and silence, and I often find myself retreating to the forest. I believe that this connection to nature is essential for my creative process, and it helps me to maintain a sense of balance in my life.
 
-So I am transitioning to a more hermit-like lifestyle, where I can focus on my art and my connection to nature. I am also transitioning my home sound studio and all my coding into the forest, where I have an old cabin that I am restoring. This project is a work in progress, and I see it as a long term commitment. I do restore the cabin with nature in mind, using local materials and techniques that are in harmony with the environment. I have my Seigr apiary there.
+So I am transitioning to a more hermit-like lifestyle, where I can focus on my art and my connection to nature. I am also transitioning my home sound studio and all my coding into the forest, where I have an old cabin that I am restoring. This project is a work in progress, and I see it as a long-term commitment. I restore the cabin with nature in mind, using local materials and techniques that are in harmony with the environment. I have my Seigr apiary there.
 
 My work is a reflection of my values and my beliefs, and I hope to inspire others to think about their own relationship with technology and nature. I believe that we can create a better world by working together, and I am committed to using my art and my skills to make a positive impact.
 
-There are social media leftovers from my past life, but I am not active on them. In fact, although I strongly believe in collaboration and sharing, I do have zero trust. I do believe we can achieve new levels of collaboration that do not involve blind trust. Specially in these times of AI and big data.
+There are social media leftovers from my past life, but I am not active on them. In fact, although I strongly believe in collaboration and sharing, I do have zero trust. I do believe we can achieve new levels of collaboration that do not involve blind trust—especially in these times of AI and big data.
 
-Trust is something that needs to be earned by doing, not just by saying. To be honest, I am tired of people that mask themselves under false names pretending to be someone they are not. We already have way too many problems to try to solve, and I do not have time nor health to deal with that. I am not saying I am perfect, but I do try to be honest and transparent in my work and my life.
+Trust is something that needs to be earned by doing, not just by saying. To be honest, I am tired of people that mask themselves under false names pretending to be someone they are not. We already have way too many problems to solve, and I do not have the time nor health to deal with that. I am not saying I am perfect, but I do try to be honest and transparent in my work and my life.
 
-So if you are willing to contact me, it has to be through my music, my honey or my code.
+So if you are willing to contact me, it has to be through my music, my honey, or my code.
 
-If you are interested and have read this far, then you already know where to find me: on [Bandcamp](https://antsyrecords.bandcamp.com/), on [GitHub](https://github.com/Seigr-lab) or in the forest.
+If you are interested and have read this far, then you already know where to find me: on [Bandcamp](https://antsyrecords.bandcamp.com/), on [GitHub](https://github.com/Seigr-lab), or in the forest.
 
 </details>
