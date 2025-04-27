@@ -25,8 +25,8 @@ Some Of My Solo Music projects:
 <details>
 <summary>On Spotify</summary>
 
-- [Listen to *Tombwave Barbarian* on Spotify](https://open.spotify.com/album/7pscWqfOuQXMm79Dq7hHzX)
-- [Listen to *Tombwave Barbarian* (Vol. 2) on Spotify](https://open.spotify.com/album/0RBITwkLodg71iuCB1Ub3e)
+- [Listen to *Coven of One* on Spotify](https://open.spotify.com/album/7pscWqfOuQXMm79Dq7hHzX)
+- [Listen to *Venusian Scum* on Spotify](https://open.spotify.com/album/0RBITwkLodg71iuCB1Ub3e)
 
 </details>
 
@@ -65,14 +65,14 @@ Some Of My Solo Music projects:
 <details>
 <summary>On Spotify</summary>
 
-- [Listen to *Stones Of Blood* on Spotify](https://open.spotify.com/album/2SArxoF7jcjEOVO4HbXsTH)
+- [Listen to *Because Of The Time Lost* on Spotify](https://open.spotify.com/album/2SArxoF7jcjEOVO4HbXsTH)
 
 </details>
 
 <details>
 <summary>On Apple Music</summary>
 
-- [Listen to *Stones Of Blood* on Apple Music](https://embed.music.apple.com/no/album/because-of-the-time-lost-single/1810202792)
+- [Listen to *Because Of The Time Lost* on Apple Music](https://embed.music.apple.com/no/album/because-of-the-time-lost-single/1810202792)
 
 </details>
 
@@ -84,14 +84,14 @@ Some Of My Solo Music projects:
 <details>
 <summary>On Spotify</summary>
 
-- [Listen to *Red Backlights Are On* on Spotify](https://open.spotify.com/album/5eHQS0FW6BZiUij3thIS4o)
+- [Listen to *Brightness Control* on Spotify](https://open.spotify.com/album/5eHQS0FW6BZiUij3thIS4o)
 
 </details>
 
 <details>
 <summary>On Apple Music</summary>
 
-- [Listen to *Red Backlights Are On* on Apple Music](https://embed.music.apple.com/us/album/brightness-control-single/1810173061)
+- [Listen to *Brightness Control* on Apple Music](https://embed.music.apple.com/us/album/brightness-control-single/1810173061)
 
 </details>
 
@@ -103,18 +103,18 @@ Some Of My Solo Music projects:
 <details>
 <summary>On Spotify</summary>
 
-- [Album 1 on Spotify](https://open.spotify.com/album/1z66hIZxhVjt6sBFuQMI2y)
-- [Album 2 on Spotify](https://open.spotify.com/album/0AObsvlALD9aOwUHqZ1R7I)
-- [Album 3 on Spotify](https://open.spotify.com/album/7mvgBeEwVMN9St3s4wbt3G)
+- [Listen to *Huldren* on Spotify](https://open.spotify.com/album/1z66hIZxhVjt6sBFuQMI2y)
+- [Listen to *Minner fra Bispedalen* on Spotify](https://open.spotify.com/album/0AObsvlALD9aOwUHqZ1R7I)
+- [Listen to *Quantum Fluctuation* on Spotify](https://open.spotify.com/album/7mvgBeEwVMN9St3s4wbt3G)
 
 </details>
 
 <details>
 <summary>On Apple Music</summary>
 
-- [Huldren on Apple Music](https://embed.music.apple.com/us/album/huldren/1810189554)
-- [Minner fra Bispedalen EP on Apple Music](https://embed.music.apple.com/us/album/minner-fra-bispedalen-ep/1810178971)
-- [Quantum Fluctuation on Apple Music](https://embed.music.apple.com/us/album/quantum-fluctuation/1810194217)
+- [Listen to *Huldren* on Apple Music](https://embed.music.apple.com/us/album/huldren/1810189554)
+- [Listen to *Minner fra Bispedalen* on Apple Music](https://embed.music.apple.com/us/album/minner-fra-bispedalen-ep/1810178971)
+- [Listen to *Quantum Fluctuation* on Apple Music](https://embed.music.apple.com/us/album/quantum-fluctuation/1810194217)
 
 </details>
 
