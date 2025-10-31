@@ -40,5 +40,9 @@ We cultivate this work as we would a garden — with patience, curiosity, and tr
 **We are Seigr — a convergence of thought and material, a living framework shaped by experience, intention, and respect for the world that sustains it.**
 
 **We build to understand.**
+
 **We build to align.**
+
 **We build to sustain balance.**
+
+**We explore to find new paths.**
