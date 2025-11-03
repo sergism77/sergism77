@@ -45,4 +45,4 @@ We cultivate this work as we would a garden — with patience, curiosity, and tr
 
 **We build to sustain balance.**
 
-**We explore to find new paths.**
+**We explore new paths.**
